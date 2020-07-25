@@ -7,4 +7,4 @@ After creating the `$bot` object, include the module.
 include __DIR__ . '/modules/botify.start/module.php';
 ```
 
-> Don't forget change bot username.
+> Do not forget change bot username.
